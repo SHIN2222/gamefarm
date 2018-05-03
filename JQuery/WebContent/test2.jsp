@@ -8,5 +8,6 @@
 </head>
 <body>
 <%="test2.jsp" %>
+<%="test2 local.jsp" %>
 </body>
 </html>
