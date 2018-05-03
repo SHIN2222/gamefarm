@@ -11,6 +11,7 @@
 		alert("첫번째 준비");
 	});
 	
+	
 	$(document).ready(function(){
 		alert("두번째 준비");
 	});
