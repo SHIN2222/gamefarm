@@ -9,6 +9,7 @@
 <body>
 <%="test2.jsp" %>
 <%="test2github.jsp" %>
-<%="test2 local.jsp" %>
+<%="test2 local" %>
+<%="test2 word" %>
 </body>
 </html>
